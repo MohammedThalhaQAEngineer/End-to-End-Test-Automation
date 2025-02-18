@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+    <test name="Tests">
+        <classes>
+            <class name="com.cloudautomation.tests.LoginTest"/>
+            <class name="com.cloudautomation.tests.HomeTest"/>
+        </classes>
+    </test>
+</suite>
