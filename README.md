@@ -16,5 +16,5 @@ This project is an end-to-end automation testing framework designed for cloud-ba
 - **Version Control**: Git & GitHub
 - **Browsers**: Chrome, Firefox
 
-## Project Structure
+
 
